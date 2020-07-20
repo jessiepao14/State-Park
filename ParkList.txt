@@ -1,0 +1,26 @@
+1974 609 Byron; 94514 Bethany Reservoir State Recreation Area
+1967 3732 Livermore; 94550 Lake Del Valle State Recreation Area
+1961 132 Alameda; 94501 Robert W. Crown Memorial State Beach
+1985 442 Berkeley; 94720 McLaughlin Eastshore State Park State Seashore
+1979 5075 Tracy; 95376 Carnegie State Vehicular Recreation Area
+1959 3523 Oakley; 94561 Franks Tract State Recreation Area
+1931 20124 Walnut Creek; 94598 Mount Diablo State Park
+2012 3659 Brentwood; 94513 Marsh Creek State Historic Park
+1985 4209 Pescadero; 94060 Ano Nuevo State Park
+1958 44 Pescadero; 94060 Bean Hollow State Beach
+1979 1325 Half Moon Bay; 94019 Burleigh H. Murray Ranch
+1956 4728 Pescadero; 94060 Butano State Park
+1966 3 Half Moon Bay; 94019 Gray Whale Cove State Beach
+1956 181 Half Moon Bay; 94019 Half Moon Bay State Beach
+1959 780 Montara; 94037 Montara State Beach
+1979 21 Pacifica; 94044 Pacifica State Beach
+1958 700 Pescadero; 94060 Pescadero State Beach
+1981 76 Pescadero; 94060 Pigeon Point Light Station State Historic Park
+1960 421 San Gregorio; 94074 Pomponio State Beach
+1945 2608 La Honda; 94020 Portola Redwoods State Park
+1980 298 Brisbane; 94005 San Bruno Mountain State Park
+1958 414 San Gregorio; 94074 San Gregorio State Beach
+1955 58 Daly City; 94015 Thornton State Beach
+2003 137 San Jose; 95136 Martial Cottle Park State Recreation Area
+1959 89164 Morgan Hill; 95037 Henry W. Coe State Park
+1968 5242 Los Gatos; 95033 Castle Rock State Park
